@@ -1,13 +1,14 @@
+/* eslint-disable linebreak-style */
 'use strict';
 
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Dierking.Dev - Thoughts and Ramblings',
+  subtitle: 'developer by day, roaster by night.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 8,
   googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [
@@ -25,19 +26,19 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Casey Dierking',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'developer by day, roaster by night.',
     contacts: {
       email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      facebook: '',
+      telegram: '',
+      twitter: 'misteroptimist',
+      github: 'caseydierking',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'caseydierking',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: ''
