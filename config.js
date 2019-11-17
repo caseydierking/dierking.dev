@@ -23,10 +23,6 @@ module.exports = {
     {
       label: 'Projects',
       path: '/category/projects'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
     }
   ],
   author: {
