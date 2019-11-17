@@ -4,7 +4,7 @@ date: "2019-10-30T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "/posts/paste-excel-into-sql-server/"
-category: "SQL"
+category: "Tutorials"
 tags:
   - "Excel"
   - "SQL"
