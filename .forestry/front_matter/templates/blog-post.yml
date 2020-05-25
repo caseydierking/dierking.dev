@@ -30,3 +30,5 @@ fields:
 - type: file
   name: socialImage
   label: socialImage
+pages:
+- content/posts/miniflux.md
