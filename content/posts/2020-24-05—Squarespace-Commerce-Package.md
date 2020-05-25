@@ -1,5 +1,5 @@
 ---
-title: Squarespace Commerce Library In Python
+title: Squarespace-Commerce Library In Python
 date: "2020-05-24T22:40:32.169Z"
 template: "post"
 draft: false
@@ -15,7 +15,7 @@ Recently, I published my very first package to the Python Package Index. I'm pro
 Prior to publishing the package, I had created a simple python application for my wife that utilizied the [Squarespace Commerce API](https://developers.squarespace.com/commerce-apis/what-can-i-do). During the development of that project, I was surprised to learn that there were no existing modules out there (that had been maintained) that abstracted the api and made it easy to query. Once I had the application built for my wife, I realized I could take what I learned and turn it into something that could be useful for anyone (and even make it easier to maintain what I had built for her). And since there were was nothing exsting, I decided to write my own and publish it. 
 
 
-Introducing **Squarespace-Commerce**
+##Introducing **Squarespace-Commerce**
 
 You can can acces it on [PyPi](https://pypi.org/project/squarespace-commerce/) or view the [Github source.](https://github.com/caseydierking/squarespace-commerce-python) Future plans include expanding the library to use the Transactions and Inventory APIs. 
 
